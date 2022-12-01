@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi pals, I'm Nirmit kaundal</h1>
+<h1 align ="center">Hi pals, I'm Nirmit kaundal</h1>
 <h3 align="center">Computer Science student</h3>
 <img align="right" alt="Coding" width="200" src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzSfx0IeeJmxiBGG8fvC2PfBmJiEY6EVgS4w&usqp=CAU>
 
