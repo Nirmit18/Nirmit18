@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **nimitkaundalrock2004@gmail.com**
 
-- ⚡ Fun fact **I am a cinephile & fanboy of queen...**
+- ⚡ Fun fact **I am a cinephile & fanboy of queen....**
 
 
 
