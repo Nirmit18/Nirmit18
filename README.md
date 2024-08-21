@@ -4,6 +4,10 @@
 <h3 align="center">Computer Science student</h3>
 <img align="right" alt="Coding" width="200" src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzSfx0IeeJmxiBGG8fvC2PfBmJiEY6EVgS4w&usqp=CAU>
 
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirmit18&label=Profile%20views&color=0e75b6&style=flat" alt="nirmit18" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
