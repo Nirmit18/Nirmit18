@@ -4,9 +4,21 @@
 <h3 align="center">Computer Science student</h3>
 <img align="right" alt="Coding" width="200" src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzSfx0IeeJmxiBGG8fvC2PfBmJiEY6EVgS4w&usqp=CAU>
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="45" height="45"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="git" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="git" width="45" height="45"/>
+</p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirmit18&label=Profile%20views&color=0e75b6&style=flat" alt="nirmit18" /> </p>
 
@@ -21,7 +33,7 @@
 - ⚡ Fun fact **I am a cinephile & fanboy of queen....**
 
 
-
+https://github.com/Nirmit18/Nirmit18/blob/output/github-contribution-grid-snake.svg
 
 
 
