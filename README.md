@@ -22,7 +22,7 @@
 - ⚡ Fun fact **I am a cinephile & fanboy of queen....**
 
 
-https://github.com/Nirmit18/Nirmit18/blob/output/github-contribution-grid-snake.svg
+
 
 
 
